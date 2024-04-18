@@ -2,6 +2,7 @@
 <h3 align="center">I am a student with a great desire to start in the world of programming and cybersecurity!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=batistaker47&label=Profile%20views&color=0e75b6&style=flat" alt="batistaker47" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /> </p>
 
 - 📝 I’m currently learning **Python, React, Angular**
 
