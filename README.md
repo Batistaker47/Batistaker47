@@ -49,6 +49,7 @@
 </p>
 <span> &nbsp; </span>
 <h2 align="left">My Github stats:</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batistaker47&show_icons=true&locale=&theme=radical#gh-dark-mode-only" alt="batistaker47" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Batistaker47&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" /></p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batistaker47&layout=donut)](https://github.com/Batistaker47/github-readme-stats)
