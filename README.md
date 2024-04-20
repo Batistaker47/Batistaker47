@@ -7,7 +7,7 @@
 
 ## About me: 
 
-### 📝 I’m currently learning **Python, React, Angular**
+### 📝 I’m currently learning **React, Angular**
 
 ### 📫 How to reach me: **david.pires1997@gmail.com**
 
@@ -41,7 +41,7 @@
 <hr>
 <h2 align="left">Repositories stats:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batistaker47&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batistaker47&layout=compact&langs_count=6)
 
 
 
