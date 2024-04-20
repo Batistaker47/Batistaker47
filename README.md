@@ -14,7 +14,7 @@
 <h2 align="left">Programming Languages:</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,php" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,php,bash" />
   </a>
 </p>
 <h2 align="left">Frontend Development:</h2>
