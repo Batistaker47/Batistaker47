@@ -41,7 +41,7 @@
 <hr>
 <h2 align="left">Repositories stats:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batistaker47&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batistaker47&layout=compact&langs_count=8)
 
 
 
