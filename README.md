@@ -1,6 +1,7 @@
 <p align="center"> <img width=300px heigth=300px src="https://github.com/Batistaker47/Batistaker47/assets/145103864/7d2664bd-bdcd-46b5-a109-bd30f87f4628"  /> </p>
 <h1 align="center">👋 Welcome to my profile, I'm David Pires</h1>
 
+
 <h3 align="center">I am a student with a great desire to start in the world of programming and cybersecurity!</h3>
 <a "href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=Batistaker47&label=Profile%20Views&color=12&icon=0&pretty=true" />
