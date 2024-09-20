@@ -34,8 +34,8 @@
     </thead>
     <tbody>
       <tr>
-        <td align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,php,bash" /> </td>
-        <td align="center"> <img src="https://skillicons.dev/icons?i=html,css" /> </td>
+        <td align="center"> <img src="https://skillicons.dev/icons?i=java,py,js,php,bash,cs,cpp" /> </td>
+        <td align="center"> <img src="https://skillicons.dev/icons?i=html,css,visualstudio,unity" /> </td>
         <td align="center"> <img src="https://skillicons.dev/icons?i=spring" /> </td>
         <td align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </td>
         <td align="center"> <img src="https://skillicons.dev/icons?i=firebase" /> </td>
