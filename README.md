@@ -13,7 +13,7 @@
 
 ## About me: 
 
-### 📝 I’m currently learning **React, Angular**
+### 📝 I’m currently learning **C++, C#, Kotlin**
 
 ### 📫 How to reach me: **david.pires1997@gmail.com**
 
