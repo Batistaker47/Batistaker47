@@ -6,7 +6,7 @@
 
 <table align="center">
   <th> 
-    <img alt="Batistaker's Github Stats" src="https://github-readme-stats-batistaker47s-projects.vercel.app/api/top-langs/?username=Batistaker47&theme=algolia&hide_border=true&count_private=true&layout=compact&langs_count=12" />
+    <img alt="Batistaker's Github Stats" src="https://github-readme-stats-batistaker47s-projects.vercel.app/api/top-langs/?username=Batistaker47&theme=algolia&hide_border=true&count_private=true&layout=compact&langs_count=15" />
   </th>
   <th> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batistaker47&theme=algolia&hide_border=true&count_private=true" /> </th>
 </table>
